@@ -1,0 +1,2 @@
+// Add a new record to the collection
+db.school.insert({ name: "Holberton school" })
